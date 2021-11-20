@@ -1,0 +1,62 @@
+/*
+<body>
+  <div class="imgbox">
+    <h1>I'm christin</h1>
+    <p>A Programmer</p>
+  </div>
+  <img src="image/christin.jpg" alt="christin">
+  <div class="div1">
+    <p class="para1">
+      christin xaviour thettail house  chemperi p.o kannur
+      </p>
+    </div>
+    <div class="div2">
+<p class="para2">
+hello,hello,hello,hello,hello,hello
+hello,hello,hello,hello,hello,hello
+hello,hello,hello,hello,hello,hello
+hello,hello,hello,hello,hello,hello
+hello,hello,hello,hello,hello,hello
+</p>
+    </div>
+</body>
+*/
+
+
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.imgbox{
+  background-color: #e4f9f5;
+}
+h1{
+    margin-top: 0px;
+}
+img{
+  border: solid;
+  margin:10px;
+  margin-bottom: 5px;
+  padding: 50px;
+  height: 300px;
+  width: 300px;
+}
+.div1{
+  padding: 25px;
+  margin: 10px;
+  margin-top: 0px;
+  width: 350px;
+  border: solid;
+  background-color: #39A2DB;
+}
+.div2{
+  margin: 10px;;
+  width: 220px;
+  border: solid;
+}
+.para2{
+margin: 0px;
+background-color: #66DE93;
+}
